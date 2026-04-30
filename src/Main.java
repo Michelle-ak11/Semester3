@@ -7,6 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("====================================");
         System.out.println("WELCOME TO SPRING FRAMEWORK");
+        System.out.println("Pick a number");
         System.out.println("====================================");
         System.out.println("1. Spring CORE");
         System.out.println("2. Spring WEB CONTEXT");
